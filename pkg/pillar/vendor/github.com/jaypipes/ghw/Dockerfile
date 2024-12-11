@@ -16,7 +16,7 @@ COPY . .
 
 RUN CGO_ENABLED=0 go build -o ghwc ./cmd/ghwc/
 
-FROM alpine:3.7
+FROM alpine:3.21.0
 RUN apk add --no-cache ethtool
 
 WORKDIR /bin

@@ -7,6 +7,7 @@
 [![Godoc](https://godoc.org/github.com/lf-edge/eve/pkg/pillar?status.svg)](https://godoc.org/github.com/lf-edge/eve/pkg/pillar)
 [![DockerHubPulls](https://img.shields.io/docker/pulls/lfedge/eve)](https://hub.docker.com/r/lfedge/eve)
 [![slack](https://img.shields.io/badge/slack-eve-brightgreen.svg?logo=slack)](https://lfedge.slack.com/archives/CHMEEC0MP)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Feve.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Feve?ref=badge_shield)
 
 EVE aims to develop an open, agnostic and standardized architecture unifying the approach to developing and orchestrating cloud-native applications across the enterprise on-premises edge. It offers users new levels of control through hardware-assisted virtualization of on-prem edge devices. Once installed, EVE has direct access to and control of underlying resources and provides standard APIs that allow more efficient use of resources and can effectively partition hardware to increase workload consolidation and application multi-tenancy.
 
@@ -523,3 +524,6 @@ Let us know what you think by filing GitHub [issues](https://github.com/lf-edge/
 ## License
 
 Distributed under the Apache License 2.0. See [LICENSE.txt](https://github.com/lf-edge/eve/blob/master/LICENSE) for more information.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Feve.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Feve?ref=badge_large)
